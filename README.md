@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Información del estudiante
+
+Aplicación realizada mediante Angular siguiendo tutoriales, en ella podemos visualizar diferentes personajes de la serie de Rick&Morty obtenidos directamente de la API propuesta en la asignatura.
